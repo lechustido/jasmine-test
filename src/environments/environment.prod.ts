@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  StrutureDataCloudAPI: 'http://localhost:7102/api/v2',
 };
